@@ -1,2 +1,3 @@
-# cordova-plugin-template
-Template to create a plugin for Cordova from scratch
+# cordova-plugin-urbanairship
+
+UrbanAirship plugin for Cordova
